@@ -1,0 +1,41 @@
+.info-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 30px auto;
+  max-width: 1200px;
+}
+
+.info-box {
+  position: relative;
+  width: 360px;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(5, 36, 82, 0.7); /* Navy blue transparent overlay */
+  color: #fff;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.overlay h3 {
+  margin-top: 0;
+  color: #f0c040; /* Yellow or any accent */
+}
+
+.overlay ul {
+  margin: 10px 0 0 20px;
+  padding: 0;
+}

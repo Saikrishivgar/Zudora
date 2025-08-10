@@ -1,0 +1,1357 @@
+{
+  "tnea_colleges": [
+    {
+      "college_code": "1",
+      "college_name": "University Departments of Anna University, Chennai - CEG Campus",
+      "address": "Sardar Patel Road, Guindy, Chennai 600 025",
+      "branches": [
+        {
+          "branch_code": "BY",
+          "branch_name": "BIO MEDICAL ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 195.0,
+            "BC": 192.0,
+            "BCM": 193.0,
+            "MBC": 193.0,
+            "SC": 182.5,
+            "SCA": 168.0
+          }
+        },
+        {
+          "branch_code": "CE",
+          "branch_name": "CIVIL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 195.0,
+            "BC": 192.0,
+            "BCM": 190.0,
+            "MBC": 193.5,
+            "SC": 186.0,
+            "SCA": 176.0
+          }
+        },
+        {
+          "branch_code": "CM",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 199.5,
+            "BC": 199.0,
+            "BCM": 198.0,
+            "MBC": 199.0,
+            "SC": 195.5,
+            "SCA": 190.5
+          }
+        },
+        {
+          "branch_code": "CS",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 200.0,
+            "BC": 199.5,
+            "BCM": 198.5,
+            "MBC": 199.5,
+            "SC": 197.5,
+            "SCA": 195.0,
+            "ST": 191.5
+          }
+        },
+        {
+          "branch_code": "EC",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 199.5,
+            "BC": 199.0,
+            "BCM": 197.5,
+            "MBC": 198.5,
+            "SC": 197.0,
+            "SCA": 196.0
+          }
+        },
+        {
+          "branch_code": "EE",
+          "branch_name": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 197.5,
+            "BC": 196.5,
+            "BCM": 196.5,
+            "MBC": 196.0,
+            "SC": 192.5,
+            "SCA": 187.5,
+            "ST": 190.0
+          }
+        },
+        {
+          "branch_code": "EL",
+          "branch_name": "Electronics Engineering (VLSI Design and Technology) (SS)",
+          "cutoffs_2024": {
+            "OC": 197.0,
+            "BC": 196.5,
+            "BCM": 194.5,
+            "MBC": 195.5,
+            "SC": 191.0,
+            "ST": 164.0
+          }
+        },
+        {
+          "branch_code": "EM",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 198.5,
+            "BC": 198.5,
+            "BCM": 197.5,
+            "MBC": 197.5,
+            "SC": 194.0,
+            "SCA": 191.5,
+            "ST": 180.5
+          }
+        },
+        {
+          "branch_code": "GI",
+          "branch_name": "GEO INFORMATICS",
+          "cutoffs_2024": {
+            "OC": 191.0,
+            "BC": 188.0,
+            "BCM": 189.0,
+            "MBC": 186.0,
+            "SC": 177.0,
+            "SCA": 175.0
+          }
+        },
+        {
+          "branch_code": "IE",
+          "branch_name": "INDUSTRIAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 190.5,
+            "BC": 186.0,
+            "BCM": 186.0,
+            "MBC": 185.0,
+            "SC": 176.5,
+            "SCA": 163.5,
+            "ST": 167.0
+          }
+        },
+        {
+          "branch_code": "IM",
+          "branch_name": "INFORMATION TECHNOLOGY (SS)",
+          "cutoffs_2024": {
+            "OC": 198.5,
+            "BC": 198.0,
+            "BCM": 197.5,
+            "MBC": 197.5,
+            "SC": 193.5,
+            "SCA": 191.0,
+            "ST": 193.0
+          }
+        },
+        {
+          "branch_code": "MA",
+          "branch_name": "MATERIAL SCIENCE AND ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 189.5,
+            "BC": 186.0,
+            "BCM": 189.0,
+            "MBC": 185.0,
+            "SC": 175.0,
+            "SCA": 157.5
+          }
+        },
+        {
+          "branch_code": "ME",
+          "branch_name": "MECHANICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 194.5,
+            "BC": 192.5,
+            "BCM": 193.5,
+            "MBC": 192.5,
+            "SC": 187.0,
+            "SCA": 182.5,
+            "ST": 184.5
+          }
+        },
+        {
+          "branch_code": "MI",
+          "branch_name": "MINING ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 191.5,
+            "BC": 186.5,
+            "BCM": 186.0,
+            "MBC": 189.5,
+            "SC": 181.0,
+            "SCA": 164.5
+          }
+        },
+        {
+          "branch_code": "MN",
+          "branch_name": "MANUFACTURING ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 188.585,
+            "BC": 184.0,
+            "BCM": 186.5,
+            "MBC": 184.5,
+            "SC": 175.0,
+            "SCA": 164.0,
+            "ST": 168.5
+          }
+        },
+        {
+          "branch_code": "PT",
+          "branch_name": "PRINTING & PACKING TECHNOLOGY",
+          "cutoffs_2024": {
+            "OC": 184.5,
+            "BC": 176.5,
+            "BCM": 166.5,
+            "MBC": 173.0,
+            "SC": 167.0,
+            "SCA": 149.0,
+            "ST": 167.5
+          }
+        },
+        {
+          "branch_code": "XC",
+          "branch_name": "CIVIL ENGINEERING (TAMIL MEDIUM)",
+          "cutoffs_2024": {
+            "OC": 188.405,
+            "BC": 179.0,
+            "BCM": 181.0,
+            "MBC": 181.5,
+            "SC": 167.0,
+            "SCA": 156.5
+          }
+        },
+        {
+          "branch_code": "XM",
+          "branch_name": "MECHANICAL ENGINEERING (TAMIL MEDIUM)",
+          "cutoffs_2024": {
+            "OC": 187.5,
+            "BC": 179.5,
+            "BCM": 186.0,
+            "MBC": 179.0,
+            "SC": 163.5,
+            "ST": 158.5
+          }
+        }
+      ]
+    },
+    {
+      "college_code": "4",
+      "college_name": "University Departments of Anna University, Chennai - MIT Campus",
+      "address": "Chrompet, Tambaram Taluk, Chengalpattu District 600 044",
+      "branches": [
+        {
+          "branch_code": "AE",
+          "branch_name": "AERONAUTICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 196.0,
+            "BC": 193.5,
+            "BCM": 190.5,
+            "MBC": 194.0,
+            "SC": 191.5,
+            "SCA": 175.5,
+            "ST": 168.0
+          }
+        },
+        {
+          "branch_code": "AT",
+          "branch_name": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (SS)",
+          "cutoffs_2024": {
+            "OC": 198.0,
+            "BC": 197.5,
+            "BCM": 196.0,
+            "MBC": 197.0,
+            "SC": 193.5,
+            "SCA": 188.0
+          }
+        },
+        {
+          "branch_code": "AU",
+          "branch_name": "AUTOMOBILE ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 191.5,
+            "BC": 189.0,
+            "BCM": 189.0,
+            "MBC": 187.5,
+            "SC": 179.5,
+            "SCA": 164.0
+          }
+        },
+        {
+          "branch_code": "CM",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 198.0,
+            "BC": 197.5,
+            "BCM": 197.0,
+            "MBC": 197.0,
+            "SC": 193.0,
+            "SCA": 190.5,
+            "ST": 186.5
+          }
+        },
+        {
+          "branch_code": "CS",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 199.0,
+            "BC": 198.5,
+            "BCM": 198.0,
+            "MBC": 197.5,
+            "SC": 195.5,
+            "SCA": 190.0,
+            "ST": 194.0
+          }
+        },
+        {
+          "branch_code": "EC",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 198.0,
+            "BC": 197.5,
+            "BCM": 197.0,
+            "MBC": 197.0,
+            "SC": 193.5,
+            "SCA": 191.0,
+            "ST": 193.5
+          }
+        },
+        {
+          "branch_code": "EX",
+          "branch_name": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 196.0,
+            "BC": 195.0,
+            "BCM": 194.5,
+            "MBC": 194.5,
+            "SC": 187.5,
+            "ST": 163.0
+          }
+        },
+        {
+          "branch_code": "EM",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 197.5,
+            "BC": 197.0,
+            "BCM": 196.5,
+            "MBC": 196.5,
+            "SC": 192.0,
+            "SCA": 190.0,
+            "ST": 182.5
+          }
+        },
+        {
+          "branch_code": "IM",
+          "branch_name": "INFORMATION TECHNOLOGY (SS)",
+          "cutoffs_2024": {
+            "OC": 197.245,
+            "BC": 196.5,
+            "BCM": 197.0,
+            "MBC": 196.5,
+            "SC": 191.5,
+            "SCA": 185.5,
+            "ST": 188.5
+          }
+        },
+        {
+          "branch_code": "PR",
+          "branch_name": "PRODUCTION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 188.5,
+            "BC": 183.5,
+            "BCM": 186.0,
+            "MBC": 183.0,
+            "SC": 178.5,
+            "SCA": 167.0
+          }
+        },
+        {
+          "branch_code": "RA",
+          "branch_name": "ROBOTICS AND AUTOMATION (SS)",
+          "cutoffs_2024": {
+            "OC": 195.5,
+            "BC": 194.5,
+            "BCM": 195.5,
+            "MBC": 193.5,
+            "SC": 187.0,
+            "SCA": 183.0
+          }
+        },
+        {
+          "branch_code": "RP",
+          "branch_name": "RUBBER AND PLASTIC TECHNOLOGY",
+          "cutoffs_2024": {
+            "OC": 181.33,
+            "BC": 173.5,
+            "BCM": 172.5,
+            "MBC": 171.5,
+            "SC": 165.0,
+            "SCA": 146.0
+          }
+        }
+      ]
+    },
+    {
+      "college_code": "1210",
+      "college_name": "PANIMALAR ENGINEERING COLLEGE",
+      "address": "BANGALORE TRUNK ROAD, THIRUVALLUR DIST, PIN-600123",
+      "branches": [
+        {
+          "branch_code": "AD",
+          "branch_name": "Artificial Intelligence and Data Science",
+          "cutoffs_2024": {
+            "OC": 157.0,
+            "BC": 143.5,
+            "BCM": 142.5,
+            "MBC": 143.5,
+            "SC": 118.0
+          }
+        },
+        {
+          "branch_code": "CS",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 165.5,
+            "BC": 156.5,
+            "BCM": 145.0,
+            "MBC": 150.5,
+            "SC": 128.5
+          }
+        },
+        {
+          "branch_code": "EC",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 148.5,
+            "BC": 142.0,
+            "BCM": 144.0,
+            "MBC": 136.5
+          }
+        },
+        {
+          "branch_code": "EE",
+          "branch_name": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 143.5,
+            "BC": 126.5,
+            "MBC": 113.0
+          }
+        },
+        {
+          "branch_code": "IT",
+          "branch_name": "INFORMATION TECHNOLOGY",
+          "cutoffs_2024": {
+            "OC": 155.0,
+            "BC": 144.5,
+            "MBC": 139.0,
+            "SC": 125.0
+          }
+        },
+        {
+          "branch_code": "ME",
+          "branch_name": "MECHANICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 131.0,
+            "BC": 108.0,
+            "BCM": 124.5
+          }
+        },
+        {
+          "branch_code": "SC",
+          "branch_name": "Computer Science and Engineering (Cyber Security)",
+          "cutoffs_2024": {
+            "OC": 155.0,
+            "BC": 144.0,
+            "BCM": 151.5,
+            "MBC": 135.0,
+            "SC": 126.0
+          }
+        }
+      ]
+    },
+    {
+      "college_code": "1225",
+      "college_name": "Loyola Institute of Technology",
+      "address": "Palanchur, Mevalurkuppam, B village, Nazarathpet Post, Sriperumpudur Taluk, Kanchipuram District, Chennai-600123",
+      "branches": [
+        {
+          "branch_code": "AD",
+          "branch_name": "Artificial Intelligence and Data Science",
+          "cutoffs_2024": {
+            "OC": 157.0,
+            "BC": 143.5,
+            "BCM": 142.5,
+            "MBC": 143.5,
+            "SC": 118.0
+          }
+        },
+        {
+          "branch_code": "CS",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 165.5,
+            "BC": 156.5,
+            "BCM": 145.0,
+            "MBC": 150.5,
+            "SC": 128.5
+          }
+        },
+        {
+          "branch_code": "EC",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 148.5,
+            "BC": 142.0,
+            "BCM": 144.0,
+            "MBC": 136.5
+          }
+        },
+        {
+          "branch_code": "EE",
+          "branch_name": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 143.5,
+            "BC": 126.5,
+            "MBC": 113.0
+          }
+        },
+        {
+          "branch_code": "IT",
+          "branch_name": "INFORMATION TECHNOLOGY",
+          "cutoffs_2024": {
+            "OC": 155.0,
+            "BC": 144.5,
+            "MBC": 139.0,
+            "SC": 125.0
+          }
+        },
+        {
+          "branch_code": "ME",
+          "branch_name": "MECHANICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 131.0,
+            "BC": 108.0,
+            "BCM": 124.5
+          }
+        },
+        {
+          "branch_code": "SC",
+          "branch_name": "Computer Science and Engineering (Cyber Security)",
+          "cutoffs_2024": {
+            "OC": 155.0,
+            "BC": 144.0,
+            "BCM": 151.5,
+            "MBC": 135.0,
+            "SC": 126.0
+          }
+        }
+      ]
+    },
+    {
+      "college_code": "1304",
+      "college_name": "Easwari Engineering College (Autonomous)",
+      "address": "Bharathi Salai, Ramapuram, Chennai-600089",
+      "branches": [
+        {
+          "branch_code": "AD",
+          "branch_name": "Artificial Intelligence and Data Science",
+          "cutoffs_2024": {
+            "OC": 180.5,
+            "BC": 175.0,
+            "BCM": 174.5,
+            "MBC": 171.3333333,
+            "SC": 146.5
+          }
+        },
+        {
+          "branch_code": "AM",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+          "cutoffs_2024": {
+            "OC": 178.5,
+            "BC": 174.0,
+            "BCM": 175.0,
+            "MBC": 170.0,
+            "SC": 153.5,
+            "ST": 112.0
+          }
+        },
+        {
+          "branch_code": "AU",
+          "branch_name": "AUTOMOBILE ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 146.0,
+            "BC": 142.0,
+            "BCM": 133.0,
+            "MBC": 142.0,
+            "SC": 120.0
+          }
+        },
+        {
+          "branch_code": "BM",
+          "branch_name": "BIO MEDICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 173.0,
+            "BC": 159.0,
+            "BCM": 169.67,
+            "MBC": 148.5,
+            "SC": 132.5
+          }
+        },
+        {
+          "branch_code": "BT",
+          "branch_name": "BIO TECHNOLOGY",
+          "cutoffs_2024": {
+            "OC": 170.0,
+            "BC": 162.0,
+            "BCM": 148.0,
+            "MBC": 153.0,
+            "SC": 134.0,
+            "SCA": 122.5
+          }
+        },
+        {
+          "branch_code": "CB",
+          "branch_name": "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+          "cutoffs_2024": {
+            "OC": 173.5,
+            "BC": 171.5,
+            "BCM": 171.0,
+            "MBC": 169.5,
+            "SC": 146.0,
+            "SCA": 122.5
+          }
+        },
+        {
+          "branch_code": "CD",
+          "branch_name": "COMPUTER SCIENCE AND DESIGN",
+          "cutoffs_2024": {
+            "OC": 175.5,
+            "BC": 170.0,
+            "BCM": 173.5,
+            "MBC": 168.5,
+            "SC": 145.5
+          }
+        },
+        {
+          "branch_code": "CE",
+          "branch_name": "CIVIL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 159.0,
+            "BC": 130.0,
+            "MBC": 132.0,
+            "SC": 120.0
+          }
+        },
+        {
+          "branch_code": "CS",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 183.5,
+            "BC": 178.0,
+            "BCM": 177.0,
+            "MBC": 175.5,
+            "SC": 156.0
+          }
+        },
+        {
+          "branch_code": "EC",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 179.5,
+            "BC": 175.0,
+            "BCM": 176.0,
+            "MBC": 169.0,
+            "SC": 142.5
+          }
+        },
+        {
+          "branch_code": "EE",
+          "branch_name": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 171.0,
+            "BC": 165.5,
+            "BCM": 162.5,
+            "MBC": 160.5,
+            "SC": 135.0
+          }
+        },
+        {
+          "branch_code": "IT",
+          "branch_name": "INFORMATION TECHNOLOGY",
+          "cutoffs_2024": {
+            "OC": 178.5,
+            "BC": 174.5,
+            "BCM": 176.0,
+            "MBC": 171.5,
+            "SC": 148.0,
+            "SCA": 84.5,
+            "ST": 114.5
+          }
+        },
+        {
+          "branch_code": "ME",
+          "branch_name": "MECHANICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 160.0,
+            "BC": 149.0,
+            "BCM": 120.0,
+            "MBC": 145.0,
+            "SC": 124.5,
+            "ST": 97.5
+          }
+        },
+        {
+          "branch_code": "RM",
+          "branch_name": "ROBOTICS AND AUTOMATION",
+          "cutoffs_2024": {
+            "OC": 173.0,
+            "BC": 167.5,
+            "BCM": 170.0,
+            "MBC": 150.5,
+            "SC": 136.5
+          }
+        },
+        {
+          "branch_code": "SC",
+          "branch_name": "Computer Science and Engineering (Cyber Security)",
+          "cutoffs_2024": {
+            "OC": 179.0,
+            "BC": 176.5,
+            "BCM": 174.0,
+            "MBC": 172.5,
+            "SC": 151.0,
+            "SCA": 104.0
+          }
+        }
+      ]
+    },
+    {
+      "college_code": "1315",
+      "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING (AUTONOMOUS)",
+      "address": "RAJIV GANDHI SALAI (OMR), KANCHIPURAM DIST, PIN-603110",
+      "branches": []
+    },
+    {
+      "college_code": "1399",
+      "college_name": "Chennai Institute of Technology (Autonomous)",
+      "address": "Puduper Village, Nandambakkam Post, Kundrathur, Chennai 600069",
+      "branches": [
+        {
+          "branch_code": "AD",
+          "branch_name": "Artificial Intelligence and Data Science",
+          "cutoffs_2024": {
+            "OC": 191.5,
+            "BC": 189.5,
+            "BCM": 190.0,
+            "MBC": 187.0,
+            "SC": 176.5,
+            "SCA": 127.5,
+            "ST": 140.0
+          }
+        },
+        {
+          "branch_code": "AM",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+          "cutoffs_2024": {
+            "OC": 190.5,
+            "BC": 189.0,
+            "BCM": 189.5,
+            "MBC": 186.5,
+            "SC": 171.5,
+            "SCA": 158.0,
+            "ST": 142.5
+          }
+        },
+        {
+          "branch_code": "BM",
+          "branch_name": "BIO MEDICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 188.0,
+            "BC": 184.5,
+            "BCM": 183.0,
+            "MBC": 185.0,
+            "SC": 169.0,
+            "SCA": 146.0
+          }
+        },
+        {
+          "branch_code": "CB",
+          "branch_name": "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+          "cutoffs_2024": {
+            "OC": 190.0,
+            "BC": 189.0,
+            "BCM": 189.5,
+            "MBC": 187.5,
+            "SC": 170.5,
+            "ST": 138.5
+          }
+        },
+        {
+          "branch_code": "CE",
+          "branch_name": "CIVIL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 183.5,
+            "BC": 181.0,
+            "BCM": 183.0,
+            "MBC": 182.0,
+            "SC": 162.965
+          }
+        },
+        {
+          "branch_code": "CS",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 194.0,
+            "BC": 191.0,
+            "BCM": 191.0,
+            "MBC": 188.5,
+            "SC": 172.0,
+            "SCA": 131.5,
+            "ST": 140.0
+          }
+        },
+        {
+          "branch_code": "EA",
+          "branch_name": "Electronics and Communication (Advanced Communication Technology)",
+          "cutoffs_2024": {
+            "OC": 189.5,
+            "BC": 188.5,
+            "BCM": 188.5,
+            "MBC": 187.0,
+            "SC": 170.0,
+            "SCA": 160.5
+          }
+        },
+        {
+          "branch_code": "EC",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 193.0,
+            "BC": 190.5,
+            "BCM": 190.0,
+            "MBC": 189.0,
+            "SC": 176.0,
+            "SCA": 149.5,
+            "ST": 143.5
+          }
+        },
+        {
+          "branch_code": "EE",
+          "branch_name": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 189.0,
+            "BC": 187.5,
+            "BCM": 188.5,
+            "MBC": 185.0,
+            "SC": 167.92,
+            "ST": 124.0
+          }
+        },
+        {
+          "branch_code": "EV",
+          "branch_name": "Electronics Engineering (VLSI Design and Technology)",
+          "cutoffs_2024": {
+            "OC": 189.0,
+            "BC": 188.0,
+            "BCM": 189.0,
+            "MBC": 185.5,
+            "SC": 166.26,
+            "SCA": 164.5
+          }
+        },
+        {
+          "branch_code": "IT",
+          "branch_name": "INFORMATION TECHNOLOGY",
+          "cutoffs_2024": {
+            "OC": 191.0,
+            "BC": 190.0,
+            "BCM": 190.0,
+            "MBC": 187.5,
+            "SC": 170.0,
+            "SCA": 154.0,
+            "ST": 128.0
+          }
+        },
+        {
+          "branch_code": "ME",
+          "branch_name": "MECHANICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 184.0,
+            "BC": 181.89,
+            "BCM": 183.0,
+            "MBC": 179.745,
+            "SC": 164.775,
+            "SCA": 150.5,
+            "ST": 123.5
+          }
+        },
+        {
+          "branch_code": "MZ",
+          "branch_name": "Mechatronics Engineering",
+          "cutoffs_2024": {
+            "OC": 187.5,
+            "BC": 186.0,
+            "BCM": 184.5,
+            "MBC": 185.0,
+            "SC": 165.5,
+            "SCA": 143.0
+          }
+        },
+        {
+          "branch_code": "SC",
+          "branch_name": "Computer Science and Engineering (Cyber Security)",
+          "cutoffs_2024": {
+            "OC": 190.5,
+            "BC": 189.0,
+            "BCM": 189.185,
+            "MBC": 186.5,
+            "SC": 174.0,
+            "SCA": 155.5
+          }
+        }
+      ]
+    },
+    {
+      "college_code": "1432",
+      "college_name": "Rajalakshmi Institute of Technology (Autonomous)",
+      "address": "Bangalore Highway Road, Kuthambakkam, Chennai-600124",
+      "branches": [
+        {
+          "branch_code": "AD",
+          "branch_name": "Artificial Intelligence and Data Science",
+          "cutoffs_2024": {
+            "OC": 185.0,
+            "BC": 181.0,
+            "BCM": 178.5,
+            "MBC": 177.0,
+            "SC": 154.5,
+            "SCA": 128.5,
+            "ST": 105.5
+          }
+        },
+        {
+          "branch_code": "AM",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING)",
+          "cutoffs_2024": {
+            "OC": 184.5,
+            "BC": 180.5,
+            "BCM": 176.5,
+            "MBC": 177.0,
+            "SC": 154.5,
+            "ST": 104.5
+          }
+        },
+        {
+          "branch_code": "BT",
+          "branch_name": "BIO TECHNOLOGY",
+          "cutoffs_2024": {
+            "OC": 174.5,
+            "BC": 168.0,
+            "BCM": 157.0,
+            "MBC": 158.0,
+            "SC": 135.5
+          }
+        },
+        {
+          "branch_code": "CB",
+          "branch_name": "COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+          "cutoffs_2024": {
+            "OC": 182.0,
+            "BC": 178.5,
+            "BCM": 178.0,
+            "MBC": 176.5,
+            "SC": 142.5,
+            "SCA": 106.5
+          }
+        },
+        {
+          "branch_code": "CO",
+          "branch_name": "COMPUTER AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 183.0,
+            "BC": 178.5,
+            "BCM": 179.5,
+            "MBC": 177.0,
+            "SC": 153.0,
+            "SCA": 117.0,
+            "ST": 143.5
+          }
+        },
+        {
+          "branch_code": "CS",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 188.3333333,
+            "BC": 184.0,
+            "BCM": 182.0,
+            "MBC": 181.0,
+            "SC": 158.5
+          }
+        },
+        {
+          "branch_code": "EC",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 187.5,
+            "BC": 184.0,
+            "BCM": 179.0,
+            "MBC": 179.0,
+            "SC": 163.0,
+            "SCA": 107.0
+          }
+        },
+        {
+          "branch_code": "EV",
+          "branch_name": "Electronics Engineering (VLSI Design and Technology)",
+          "cutoffs_2024": {
+            "OC": 181.5,
+            "BC": 176.5,
+            "BCM": 170.0,
+            "MBC": 174.0,
+            "SC": 131.5
+          }
+        },
+        {
+          "branch_code": "ME",
+          "branch_name": "MECHANICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 172.0,
+            "BC": 161.5,
+            "BCM": 157.0,
+            "MBC": 154.0,
+            "SC": 125.5
+          }
+        }
+      ]
+    },
+    {
+      "college_code": "2006",
+      "college_name": "PSG College of Technology (Autonomous)",
+      "address": "Peelamedu, Coimbatore District 641004",
+      "branches": [
+        {
+          "branch_code": "AS",
+          "branch_name": "AUTOMOBILE ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 182.5,
+            "BC": 180.0,
+            "BCM": 168.0,
+            "MBC": 173.0,
+            "SC": 166.0,
+            "SCA": 155.0
+          }
+        },
+        {
+          "branch_code": "BS",
+          "branch_name": "BIO TECHNOLOGY (SS)",
+          "cutoffs_2024": {
+            "OC": 192.5,
+            "BC": 187.5,
+            "BCM": 188.5,
+            "MBC": 184.0,
+            "SC": 163.5,
+            "SCA": 186.5
+          }
+        },
+        {
+          "branch_code": "BY",
+          "branch_name": "BIO MEDICAL ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 190.0,
+            "BC": 186.5,
+            "BCM": 188.0,
+            "MBC": 183.0,
+            "SC": 161.0,
+            "SCA": 165.0,
+            "ST": 178.5
+          }
+        },
+        {
+          "branch_code": "CE",
+          "branch_name": "CIVIL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 191.5,
+            "BC": 190.0,
+            "BCM": 186.5,
+            "MBC": 187.5,
+            "SC": 177.0,
+            "SCA": 178.5
+          }
+        },
+        {
+          "branch_code": "CG",
+          "branch_name": "Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS)",
+          "cutoffs_2024": {
+            "OC": 197.0,
+            "BC": 196.5,
+            "MBC": 195.5,
+            "SC": 187.5,
+            "SCA": 183.0
+          }
+        },
+        {
+          "branch_code": "CM",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 198.5,
+            "BC": 198.0,
+            "BCM": 196.5,
+            "MBC": 196.5,
+            "SC": 188.5,
+            "SCA": 191.0
+          }
+        },
+        {
+          "branch_code": "CN",
+          "branch_name": "CIVIL ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 187.0,
+            "BC": 184.0,
+            "MBC": 182.5,
+            "SC": 175.0,
+            "SCA": 179.5
+          }
+        },
+        {
+          "branch_code": "EC",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 198.5,
+            "BC": 198.0,
+            "BCM": 196.5,
+            "MBC": 196.0,
+            "SC": 190.0,
+            "SCA": 190.5,
+            "ST": 181.5
+          }
+        },
+        {
+          "branch_code": "EE",
+          "branch_name": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 196.0,
+            "BC": 195.5,
+            "BCM": 194.0,
+            "MBC": 194.5,
+            "SC": 186.5,
+            "SCA": 185.5,
+            "ST": 168.0
+          }
+        },
+        {
+          "branch_code": "EM",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 197.0,
+            "BC": 196.5,
+            "BCM": 195.5,
+            "MBC": 195.0,
+            "SC": 187.5,
+            "SCA": 186.0,
+            "ST": 176.5
+          }
+        },
+        {
+          "branch_code": "ES",
+          "branch_name": "ELECTRICAL AND ELECTRONICS (SANDWICH) (SS)",
+          "cutoffs_2024": {
+            "OC": 190.0,
+            "BC": 188.5,
+            "BCM": 188.0,
+            "MBC": 184.5,
+            "SC": 170.5,
+            "SCA": 160.0
+          }
+        },
+        {
+          "branch_code": "FY",
+          "branch_name": "FASHION TECHNOLOGY (SS)",
+          "cutoffs_2024": {
+            "OC": 176.0,
+            "BC": 170.5,
+            "BCM": 153.0,
+            "MBC": 157.5,
+            "SC": 133.5,
+            "SCA": 126.0,
+            "ST": 110.0
+          }
+        },
+        {
+          "branch_code": "IM",
+          "branch_name": "INFORMATION TECHNOLOGY (SS)",
+          "cutoffs_2024": {
+            "OC": 197.5,
+            "BC": 196.5,
+            "BCM": 195.0,
+            "MBC": 195.0,
+            "SC": 188.5,
+            "SCA": 182.5,
+            "ST": 184.0
+          }
+        },
+        {
+          "branch_code": "IY",
+          "branch_name": "INSTRUMENTATION AND CONTROL ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 191.0,
+            "BC": 189.5,
+            "BCM": 185.5,
+            "MBC": 188.5,
+            "SC": 180.0,
+            "SCA": 170.155,
+            "ST": 121.0
+          }
+        },
+        {
+          "branch_code": "ME",
+          "branch_name": "MECHANICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 193.0,
+            "BC": 191.0,
+            "BCM": 192.0,
+            "MBC": 190.0,
+            "SC": 179.5,
+            "SCA": 185.5,
+            "ST": 181.0
+          }
+        },
+        {
+          "branch_code": "MF",
+          "branch_name": "MECHANICAL ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 190.0,
+            "BC": 189.5,
+            "BCM": 190.0,
+            "MBC": 188.0,
+            "SC": 175.5,
+            "SCA": 173.0
+          }
+        },
+        {
+          "branch_code": "MS",
+          "branch_name": "MECHANICAL ENGINEERING (SANDWICH) (SS)",
+          "cutoffs_2024": {
+            "OC": 184.0,
+            "BC": 180.0,
+            "BCM": 177.5,
+            "MBC": 177.5,
+            "SC": 162.0,
+            "SCA": 134.5,
+            "ST": 144.0
+          }
+        },
+        {
+          "branch_code": "MT",
+          "branch_name": "METALLURGICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 183.5,
+            "BC": 179.5,
+            "BCM": 183.0,
+            "MBC": 181.0,
+            "SC": 173.0
+          }
+        },
+        {
+          "branch_code": "MY",
+          "branch_name": "METALLURGICAL ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 181.0,
+            "BC": 177.0,
+            "MBC": 176.0,
+            "SC": 157.5,
+            "SCA": 146.5
+          }
+        },
+        {
+          "branch_code": "PN",
+          "branch_name": "PRODUCTION ENGINEERING (SS)",
+          "cutoffs_2024": {
+            "OC": 183.0,
+            "BC": 181.5,
+            "BCM": 178.5,
+            "MBC": 179.0,
+            "SC": 157.5,
+            "SCA": 152.5
+          }
+        }
+      ]
+    },
+    {
+      "college_code": "3801",
+      "college_name": "A.V.C. College of Engineering",
+      "address": "Mannampandal, Mayiladuthurai, Nagapattinam-609305",
+      "branches": [
+        {
+          "branch_code": "AD",
+          "branch_name": "Artificial Intelligence and Data Science",
+          "cutoffs_2024": {
+            "OC": 168.5,
+            "BC": 134.5,
+            "BCM": 167.5,
+            "MBC": 138.5
+          }
+        },
+        {
+          "branch_code": "CE",
+          "branch_name": "CIVIL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 117.0
+          }
+        },
+        {
+          "branch_code": "CS",
+          "branch_name": "COMPUTER SCIENCE AND ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 165.0,
+            "BC": 125.0,
+            "BCM": 152.5,
+            "MBC": 145.5,
+            "ST": "***"
+          }
+        },
+        {
+          "branch_code": "EC",
+          "branch_name": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 147.5,
+            "BC": 98.5,
+            "BCM": 143.5,
+            "MBC": 136.5
+          }
+        },
+        {
+          "branch_code": "EE",
+          "branch_name": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 129.5,
+            "MBC": 121.0
+          }
+        },
+        {
+          "branch_code": "IC",
+          "branch_name": "INSTRUMENTATION AND CONTROL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 119.0,
+            "MBC": 105.0
+          }
+        },
+        {
+          "branch_code": "IT",
+          "branch_name": "INFORMATION TECHNOLOGY",
+          "cutoffs_2024": {
+            "OC": 163.0,
+            "BC": 125.5,
+            "BCM": 150.0,
+            "MBC": 143.5
+          }
+        },
+        {
+          "branch_code": "ME",
+          "branch_name": "MECHANICAL ENGINEERING",
+          "cutoffs_2024": {
+            "OC": 114.5,
+            "MBC": 106.5,
+            "SC": 109.5
+          }
+        }
+      ]
+    }
+  ]
+}
